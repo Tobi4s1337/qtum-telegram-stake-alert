@@ -1,2 +1,20 @@
 # qtum-telegram-stake-alert
-This project is a simple telegram bot that alerts you if you mined a block with one of your nodes / wallets.
+
+> Simple telegram bot that alerts you everytime your node mines a block.
+
+
+## Install
+
+```sh
+npm install request lowdb wallet-address-validator node-telegram-bot-api
+```
+
+## Guide
+
+### Host a server
+
+### Install Node.JS
+
+### Creating a telegram bot API key
+
+### Run the bot using pm2
