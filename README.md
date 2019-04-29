@@ -2,10 +2,6 @@
 
 > Simple telegram bot that alerts you every time your node mines a block.
 
-
-## Install
-
-
 ## Guide
 
 ### General Requirements
